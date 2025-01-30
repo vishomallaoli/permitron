@@ -73,10 +73,10 @@ python camera_capture.py
 - **May - Jun 2025**: Testing & optimization (real-world deployment & debugging)
 
 ## 👥 Team Members
-- **[Your Name]** - ML Engineer & System Integrator
-- **[Frontend Developer]** - UI/UX & Dashboard Development
-- **[Backend Developer]** - API & Database Management
-- **[Hardware Engineer]** - Raspberry Pi & Camera Integration
+- **Visho Malla Oli** - ML Engineer & System Integrator
+- **Ishan Pathak** - UI/UX & Dashboard Development
+- **Nitesh Subedi** - API & Database Management
+- **Visho Malla Oli** - Raspberry Pi & Camera Integration
 
 ## 📜 License
 This project is licensed under the MIT License.
